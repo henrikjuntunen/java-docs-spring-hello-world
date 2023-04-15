@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World! Hello Azure! Hello Java!! 2.3.2023 klo 13.08 !!! 15.4.2023 klo 10.21 !!!!";
+		return "Hello World! Hello Azure! Hello Java!! 2.3.2023 klo 13.08 !!! 15.4.2023 klo 10.21 !!!!#!";
 	}
 }
